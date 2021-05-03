@@ -1,1 +1,1 @@
-# after-effect-template
+# after-effects-template

@@ -1,0 +1,53 @@
+Report created: 
+	26/03/2017	8:26:40 CH
+
+Project name: Waifu Wednesday.aep
+
+Source files collected to: 
+	D:\My Sub\Share Template\Waifu Wednesday
+
+Source files collected: All
+
+Collected comps:  
+	Waifu Wednesday
+	Image
+	Shape
+	Music
+	Look
+	Music Player
+	Spectrum
+	Text
+	Your Logo
+	Particles
+	Bars
+	Fade Out
+	
+Number of collected files:  3
+
+Size of collected files:  9,0 MB
+
+Collected source files: 
+	C:\Users\Charlie Chacky\Downloads\pandoric___proximity_logo_vector_by_wojtekc4d-d7qdx7l.png
+	G:\camera\1564847_p0.jpg
+	G:\Felix Cartal - Get What You Give.mp3
+	
+Rendering plug-ins:
+	Classic 3D
+	
+Effects used:  4
+
+Effect:  Audio Spectrum
+	
+Effect:  Fast Blur
+	
+Effect:  Particular
+	
+Effect:  Transform
+	
+
+Layer:  Text Layer
+	External dependencies:  
+		Font family: “Bebas Neue”, Font style: “Book”
+		Font family: “Bebas Neue”, Font style: “Light”
+		Font family: “Bebas Neue”, Font style: “Regular”
+
